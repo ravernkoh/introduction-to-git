@@ -19,4 +19,5 @@ To introduce branching and the concept of remotes in Git.
 
 ## Participants
 * Ravern Koh
+* Pighui
 * Richard Jackoff
