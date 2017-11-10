@@ -23,3 +23,5 @@ WOw!
 ## Participants
 * Ravern Koh
 * Zach
+* Pighui
+* Richard Jackoff
